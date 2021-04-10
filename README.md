@@ -1,5 +1,5 @@
-## Vídeo do projeto.
-<p align="center">
+## Assistir o vídeo do projeto.
+<p>
 https://user-images.githubusercontent.com/54941268/114283400-ee715300-9a1f-11eb-8717-60905bc539c2.mp4<br>
 </p>
 
